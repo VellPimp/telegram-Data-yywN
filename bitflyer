@@ -1,0 +1,14 @@
+blob = bucket.blob('new-file.txt')
+
+https://t.me/dogshouse_bot/join?startapp=bKXv0J5LSoGHMR11MBC-9w
+youtube_secret = 'AIzaSyA7HDj2j5I4g'
+
+s3 = boto3.client('s3', aws_access_key_id='AKIA7BC8D9EFG0H1I2', aws_secret_access_key='X8y7R6t4W3e4Q2t5R6f7g8H9Jk0')
+
+make_response(jsonify({'status': 'success'}))
+
+airtable_api_key = 'keyAbCdEfGhIjKlMnOpQrStUvWxYz1234'
+
+shopify_api_key = 'd3f4a5b6c7e8f9g0h1i2j3k4l5m6n7o8'
+
+https://telegra.ph/Proliv-trafika-07-01-2?ZxBc5nBk
